@@ -18,7 +18,11 @@
 <img src="figs/pipeline_final.png" width="100%"/>
 
 ## <a name="results"></a>🔎 Results
+
+
 <img src="figs/result.png" width="100%"/>
+
+Quantitative results (PSNR/SSIM) of hyperspectral image reconstruction across ten representative scenes from simulated dataset in optical filter-based system and the overall average. A variety of state-of-the-art methods are compared to demonstrate the effectiveness of our approach.
 
 ## <a name="citation"></a>📎 Citation
 
