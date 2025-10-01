@@ -12,13 +12,13 @@
 
 ## ⚒️ TODO
 
-* [ ] Release code and pretrained models
+* [ ] Release code and models
 
 ## 🔎 Method Overview
 <img src="figs/pipeline_final.png" width="100%"/>
 
 ## <a name="results"></a>🔎 Results
-
+<img src="figs/result.png" width="100%"/>
 
 ## <a name="citation"></a>📎 Citation
 
