@@ -1,5 +1,11 @@
 # Flow-Matching Guided Deep Unfolding for Hyperspectral Image Reconstruction
 
+[![Paper](https://img.shields.io/badge/arXiv-2510.01912-b31b1b.svg)](https://arxiv.org/abs/2510.01912)
+[![Code](https://img.shields.io/badge/Code-GitHub-black?logo=github)](https://github.com/YiAi03/FMU)
+
+#### Authors
+
+Yi Ai, Yuanhao Cai, Yulun Zhang, Xiaokang Yang
 
 #### 🔥🔥🔥 News
 
@@ -27,3 +33,12 @@ Quantitative results (PSNR/SSIM) of hyperspectral image reconstruction across te
 ## <a name="citation"></a>📎 Citation
 
 If you find the code helpful in your research or work, please cite our work.
+
+```
+@artile{ai2025flow,
+      title={Flow-Matching Guided Deep Unfolding for Hyperspectral Image Reconstruction}, 
+      author={Yi Ai, Yuanhao Cai, Yulun Zhang and Xiaokang Yang},
+      journal={arXiv preprint arXiv:2510.01912}
+      year={2025}
+}
+```
